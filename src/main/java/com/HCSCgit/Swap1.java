@@ -12,5 +12,6 @@ public class Swap1 {
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println("New addition from local master branch");
+		System.out.println("Adding new line from remote master");
 	}
 }
